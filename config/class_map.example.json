@@ -1,0 +1,14 @@
+{
+  "recyclable": [
+    "plastic",
+    "paper",
+    "cardboard",
+    "metal",
+    "glass"
+  ],
+  "non_recyclable": [
+    "organic",
+    "trash",
+    "non_recyclable"
+  ]
+}
