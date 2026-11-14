@@ -1,7 +1,7 @@
 #include <WiFi.h>
 #include <ESP32Servo.h>
 
-// Reconstructed from the implementation listing in the internship report.
+// ESP32 Wi-Fi controller for a prototype waste-sorting mechanism.
 // Wi-Fi credentials are placeholders. Do not commit real credentials.
 
 const char* WIFI_SSID = "YOUR_WIFI_SSID";
