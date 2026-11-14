@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local configuration and credentials
+config/class_map.json
+.env
+
+# Model weights and datasets (store separately unless distribution is permitted)
+*.pt
+*.onnx
+datasets/
+runs/
+
+# IDE / OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
